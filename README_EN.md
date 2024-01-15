@@ -16,8 +16,6 @@ while Continuous Deployment automatically releases final builds to end users. Fr
   * License
 
 ## Autors:
-Bruno Andrade<br>
-Raphael Freixo<br>
 Vinícius Peters<br>
 
 ## Overview
