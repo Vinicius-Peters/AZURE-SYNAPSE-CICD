@@ -15,8 +15,6 @@
   * Licença
 
 ## Autores:
-Bruno Andrade<br>
-Raphael Freixo<br>
 Vinícius Peters<br>
 
 
